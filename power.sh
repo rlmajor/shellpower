@@ -5,7 +5,7 @@ read devicewatts
 echo "How many hours are you going to run it?"
 read hours
 
-#Change the below to whatever your power provides you per kWh, you can find it on your bill.
+#Change the below to whatever your power provider charges you per kWh, you can find it on your bill.
 centsperhour=".17"
 
 watthours=`expr $devicewatts \* $hours`
