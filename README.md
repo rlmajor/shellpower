@@ -7,7 +7,7 @@ chmod +x power.sh<br />
 and answer it's questions, or else it gets the hose again.
 
 <br />
-Example<br />:
+Example:<br />
 How many watts does your device use?:<br />
 1213<br />
 How many hours are you going to run it?<br />
